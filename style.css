@@ -1,12 +1,12 @@
 @font-face {
     font-family: myFont1;
-    src: url(./fonts/Apple.ttf);
-    src: url(./fonts/Apple_Chancery_Italic.eot);
+    src: url(Apple.ttf);
+    src: url(Apple_Chancery_Italic.eot);
 }
 @font-face {
     font-family: myFont2;
-    src: url(./fonts/Vacations.ttf);
-    /*src: url(./fonts/Apple_Chancery_Italic.eot);*/
+    src: url(Vacations.ttf);
+    /*src: url(Apple_Chancery_Italic.eot);*/
 }
 .food1{
 	background-color: #db9448;
@@ -20,7 +20,7 @@
 }
 .jh2{
 	
-	background-image: url(./img/343299.jpg);
+	background-image: url(343299.jpg);
 	height: 500px;
 
 	background-attachment: fixed;
